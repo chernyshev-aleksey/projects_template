@@ -1,5 +1,5 @@
-
 .idea/
+
 # Environments
 .env.local
 venv/
