@@ -1,1 +1,1 @@
-# projects_template
+# Шаблон для проектов
