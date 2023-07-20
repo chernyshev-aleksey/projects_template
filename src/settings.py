@@ -33,6 +33,3 @@ try:
 except Exception as e:
 	logger.exception(e)
 	exit(1)
-# else:
-# 	CONNECTION_STRING = f"mongodb://{config.DB_LOGIN}:{config.DB_PASSWORD}@rc1b-okazhb06hqauc9ep.mdb" \
-# 						f".yandexcloud.net:27018/?replicaSet=rs01&authSource={config.DB_NAME}"
